@@ -1,0 +1,16 @@
+sources:
+  - name: s1
+    database: dev_db
+    schema: bronze
+    tables:
+      - name: s_emp
+      - name: t_customer
+      - name: tgt_emp
+      - name: t_ticket_info
+      - name: orders
+      - name: payment
+      - name: customer
+      - name: emp
+      - name: customers
+            
+        
